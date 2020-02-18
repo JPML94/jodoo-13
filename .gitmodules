@@ -2,8 +2,3 @@
 	path = OmniaGit/odooplm
 	url = git@github.com:OmniaGit/odooplm.git
 	branch = 13.0
-
-[submodule "NORUWA/git-test"]
-	path = NORUWA/git-test
-	url = git@github.com:NORUWA/git-test.git
-	branch = master
