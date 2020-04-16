@@ -2,3 +2,8 @@
 	path = OmniaGit/odooplm
 	url = git@github.com:OmniaGit/odooplm.git
 	branch = 13.0
+
+[submodule "virginialepe/whatsapp_redirect"]
+	path = virginialepe/whatsapp_redirect
+	url = git@github.com:virginialepe/whatsapp_redirect.git
+	branch = master
