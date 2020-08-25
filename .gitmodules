@@ -7,3 +7,8 @@
 	path = virginialepe/whatsapp_redirect
 	url = git@github.com:virginialepe/whatsapp_redirect.git
 	branch = master
+
+[submodule "hibou-io/hibou-odoo-suite"]
+	path = hibou-io/hibou-odoo-suite
+	url = git@github.com:hibou-io/hibou-odoo-suite.git
+	branch = 13.0
