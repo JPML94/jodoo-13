@@ -2,3 +2,8 @@
 	path = ingadhoc/odoo-argentina
 	url = git@github.com:ingadhoc/odoo-argentina.git
 	branch = 13.0
+
+[submodule "OCA/edi"]
+	path = OCA/edi
+	url = git@github.com:OCA/edi.git
+	branch = 13.0
