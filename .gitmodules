@@ -2,3 +2,8 @@
 	path = OmniaGit/odooplm
 	url = git@github.com:OmniaGit/odooplm.git
 	branch = 13.0
+
+[submodule "AITIC/web"]
+	path = AITIC/web
+	url = git@github.com:AITIC/web.git
+	branch = 13.0
